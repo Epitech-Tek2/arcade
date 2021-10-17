@@ -1,0 +1,18 @@
+		| 1
+      BBBB      |
+    BBBBBBBB    |
+   BBBBBBBBBB   |
+  BBBBBBBBBBBB  | 5
+  BBBBBBBBBBBB  |
+  BBBWWBBWWBBB  |
+ BBBBWWBBWWBBBB |
+ BBBBBBBBBBBBBB |
+ BBBBBBBBBBBBBB | 10
+ BBWWBBWWBBWWBB |
+ BWBBWWBBWWBBWB |
+ BBBBBBBBBBBBBB |
+ BB BBB  BBB BB |
+ B   BB  BB   B | 15
+                |
+----------------+
+1   5    0    5

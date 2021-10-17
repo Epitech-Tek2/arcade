@@ -1,0 +1,19 @@
+name: C/C++ CI
+
+on:
+  push:
+    branches: [ test/prototype_archirecture ]
+  pull_request:
+    branches: [ test/prototype_archirecture ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: test make build
+        run: |
+          sudo apt install libsfml-dev
+          make && make re && make clean && make fclean

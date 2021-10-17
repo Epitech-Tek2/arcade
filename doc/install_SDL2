@@ -1,0 +1,3 @@
+yay -S sdl2
+yay -S sdl2_image
+yay -S sdl2_ttf

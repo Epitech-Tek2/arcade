@@ -1,0 +1,18 @@
+		| 1
+      RRRR      |
+    RRRRRRRR    |
+   RRRRRRRRRR   |
+  RWWRRRRWWRRR  | 5
+  WWWWRRWWWWRR  |
+  BBWWRRBBWWRR  |
+ RBBWWRRBBWWRRR |
+ RRWWRRRRWWRRRR |
+ RRRRRRRRRRRRRR | 10
+ RRRRRRRRRRRRRR |
+ RRRRRRRRRRRRRR |
+ RRRRRRRRRRRRRR |
+ RR RRR  RRR RR |
+ R   RR  RR   R | 15
+                |
+----------------+
+1   5    0    5

@@ -1,0 +1,30 @@
+==18874== Memcheck, a memory error detector
+==18874== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==18874== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==18874== Command: ./arcade lib/arcade_sdl2.so
+==18874== 
+here
+./lib/arcade_nibbler.so
+./lib/arcade_ncurses.so
+./lib/arcade_pacman.so
+./lib/arcade_sdl2.so
+dzoind
+dzoind
+dzoind
+dzoind
+Failed to load font: Couldn't open Ressourcesw/Ravenna.ttf
+==18874== 
+==18874== HEAP SUMMARY:
+==18874==     in use at exit: 39,358,347 bytes in 8,141 blocks
+==18874==   total heap usage: 46,700 allocs, 38,559 frees, 151,296,555 bytes allocated
+==18874== 
+==18874== LEAK SUMMARY:
+==18874==    definitely lost: 176 bytes in 4 blocks
+==18874==    indirectly lost: 304 bytes in 5 blocks
+==18874==      possibly lost: 38,262,266 bytes in 4,991 blocks
+==18874==    still reachable: 1,095,597 bytes in 3,140 blocks
+==18874==         suppressed: 4 bytes in 1 blocks
+==18874== Rerun with --leak-check=full to see details of leaked memory
+==18874== 
+==18874== For lists of detected and suppressed errors, rerun with: -s
+==18874== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

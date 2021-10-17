@@ -1,0 +1,18 @@
+                | 1
+                |
+      YYYYY     |
+    YYYYYYYYY   |
+   YYYYYYYYYYY  | 5
+   YYYYYYYYYYY  |
+  YYYYYYYYYY    |
+  YYYYYYY       |
+  YYYYY         |
+  YYYYYYY       | 10
+  YYYYYYYYYY    |
+   YYYYYYYYYYY  |
+   YYYYYYYYYYY  |
+    YYYYYYYYY   |
+      YYYYY     | 15
+                |
+----------------+
+1   5    0    5

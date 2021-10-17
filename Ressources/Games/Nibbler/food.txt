@@ -1,0 +1,16 @@
+       gg       
+      gg g      
+      g  gg     
+     gg   gg    
+     g     g    
+    gg     gg   
+    g     RRRR  
+  RRRR   RRRRRR 
+ RRRRRR RRRRRRRR
+RRRRRRRRRRRRRRRR
+RRRRRRRRRRRRRRRR
+RRRRRRRRRRRRRRRR
+RRRRRRRR RRRRRR 
+ RRRRRR   RRRR  
+  RRRR          
+                
